@@ -6,8 +6,8 @@
 // @match        https://tracker.yandex.ru/*
 // @icon         https://tracker.yandex.ru/favicon-b2b.ico
 // @namespace    https://github.com/R4ndomizeR/yandex-tracker-helper
-// @downloadURL  https://raw.githubusercontent.com/R4ndomizeR/yandex-tracker-helper/refs/heads/main/index.user.js
-// @updateURL    https://raw.githubusercontent.com/R4ndomizeR/yandex-tracker-helper/refs/heads/main/index.user.js
+// @downloadURL  https://raw.githubusercontent.com/R4ndomizeR/yandex-tracker-helper/refs/heads/main/index.js
+// @updateURL    https://raw.githubusercontent.com/R4ndomizeR/yandex-tracker-helper/refs/heads/main/index.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
